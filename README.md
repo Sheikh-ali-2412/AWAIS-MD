@@ -154,7 +154,7 @@ src="https://cardivo.vercel.app/api?name=AWAIS%20CHUZA%20MD%20V2&description=ðŸ¥
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/awais-star-a11y/AWAIS-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
